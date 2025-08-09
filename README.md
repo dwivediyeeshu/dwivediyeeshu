@@ -1,5 +1,7 @@
-<h1 align="center">Hi , I'm Yeeshu</h1>
-<h3 align="center"> Aspiring Full-Stack Developer | Senior System Engineer @ Infosys</h3>
+<h1 align="center">Hi 👋, I'm Yeeshu</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&width=440&lines=Aspiring+Full-Stack+Developer;DevOps+Enthusiast;Chess+Player+%26+Anime+Fan" alt="Typing SVG" />
+</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=dwivediyeeshu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,22 +10,23 @@
 
 ---
 
-## About Me
-- 3 years of professional experience in large-scale IT projects (Infosys).  
-- **Goal:** Master Full-Stack Development & DevOps
-- **Currently Learning:** 
- - **Frontend:** HTML, CSS, JavaScript, React, Vue 
- - **Backend:** Node.js, Express, MongoDB 
- - **DevOps:** Git, Docker, Kubernetes, Terraform, AWS Basics, CI/CD 
+## 🌟 About Me
+-  3 years of professional experience in large-scale IT projects (Infosys).
+- 💼 **Current Role:** Senior System Engineer @ Infosys 
+- 🎯 **Goal:** Master Full-Stack Development & DevOps
+- 📚 **Currently Learning:** 
+   - **Frontend:** HTML, CSS, JavaScript, React, Vue 
+   - **Backend:** Node.js, Express, MongoDB 
+   - **DevOps:** Git, Docker, Kubernetes, Terraform, AWS Basics, CI/CD 
 - Actively working on **GitHub repositories** to showcase real-world skills.  
 - **Next Goal:** Build **20+ projects** over 6 months for portfolio
 - ♟ **Hobbies:** Playing chess, solving strategy puzzles  
 - 🎥 **Interests:** Watching anime & exploring storytelling in different cultures
-- **Fun fact:** I game hard, but I code harder 
+- 🎮 **Fun fact:** I game hard, but I code harder  🎯  
 
 ---
 
-## 6-Month Learning Roadmap
+## 🗓️ 6-Month Learning Roadmap
 
 | Month | Focus Area | Example Projects |
 |-------|------------|------------------|
@@ -36,11 +39,7 @@
 
 ---
 
-## Project Checklist
-
-<!-- PROGRESS-BAR:START -->
-![Progress](https://progress-bar.dev/0/?scale=20&title=Projects&width=400&color=00b300&suffix=%20completed)
-<!-- PROGRESS-BAR:END -->
+## 🎯 Project Checklist
 
 ### **Frontend Projects**
 - [ ] HTML & CSS Landing Page 
@@ -69,7 +68,7 @@
 
 ---
 
-## Skills in Learning Phase
+## 🛠 Skills in Learning Phase
 
 **Frontend Development** 
 - HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Responsive Design, DOM Manipulation 
@@ -87,7 +86,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=dwivediyeeshu&show_icons=true&theme=radical" alt="stats" />
@@ -97,7 +96,7 @@
 
 ---
 
-## Connect with Me
+## 📫 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/yeeshu-dwivedi-30a151159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
