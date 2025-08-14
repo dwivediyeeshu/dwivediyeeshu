@@ -43,7 +43,7 @@
 
 ### **Frontend Projects**
 - [ ] HTML & CSS Landing Page 
-- [ ] Personal Portfolio 
+- [x] Personal Portfolio 
 - [ ] Blog Layout 
 
 ### **JavaScript Projects**
