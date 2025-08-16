@@ -42,7 +42,7 @@
 ## 🎯 Project Checklist
 
 ### **Frontend Projects**
-- [ ] HTML & CSS Landing Page 
+- [x] HTML & CSS Landing Page 
 - [x] Personal Portfolio 
 - [ ] Blog Layout 
 
