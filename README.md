@@ -44,7 +44,7 @@
 ### **Frontend Projects**
 - [x] HTML & CSS Landing Page 
 - [x] Personal Portfolio 
-- [ ] Blog Layout 
+- [x] Blog Layout 
 
 ### **JavaScript Projects**
 - [ ] Calculator 
