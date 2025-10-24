@@ -47,7 +47,10 @@
 - [x] Blog Layout 
 
 ### **JavaScript Projects**
-- [ ] Calculator 
+- [x] Calculator
+- [x] Color Change App
+- [x] BMI Calculator
+- [x] Number Guessing Game
 - [ ] To-Do List App 
 - [ ] Weather App (API) 
 
