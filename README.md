@@ -52,7 +52,10 @@
 - [x] BMI Calculator
 - [x] Number Guessing Game
 - [x] To-Do List App 
-- [x] Weather App (API) 
+- [x] Weather App (API)
+- [x] E-Commerce Cart
+- [x] Expense Tracker
+- [ ] Quiz App
 
 ### **React & Vue Projects**
 - [ ] React Task Manager 
