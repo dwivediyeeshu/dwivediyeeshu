@@ -55,7 +55,7 @@
 - [x] Weather App (API)
 - [x] E-Commerce Cart
 - [x] Expense Tracker
-- [ ] Quiz App
+- [x] Quiz App
 
 ### **React & Vue Projects**
 - [ ] React Task Manager 
